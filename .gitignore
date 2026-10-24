@@ -1,0 +1,6 @@
+.impeccable/review/
+.impeccable/questions/
+.impeccable/seeds/
+.impeccable/config.local.json
+.DS_Store
+Thumbs.db

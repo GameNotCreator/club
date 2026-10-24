@@ -1,0 +1,108 @@
+[
+  {
+    "file": "team-2023.webp",
+    "width": 1503,
+    "height": 999,
+    "bytes": 120330,
+    "alt": "Équipe du Club Ingénieur LGF lors de la remise du prix Projet X 2023.",
+    "source": "Photo fournie par le propriétaire du site (codex-clipboard-9289eb01-2fd8-458b-9005-ce28fa0cb6ca.png)",
+    "small": {
+      "file": "team-2023-640.webp",
+      "width": 640,
+      "height": 425,
+      "bytes": 40932
+    }
+  },
+  {
+    "file": "award-2023.webp",
+    "width": 1503,
+    "height": 999,
+    "bytes": 71996,
+    "alt": "Trophée Projet X 2023, prix du comité inter-zone.",
+    "source": "Photo fournie par le propriétaire du site (codex-clipboard-66cb13fa-12bd-4a9d-a4f2-1ab2d25813ea.png)",
+    "small": {
+      "file": "award-2023-640.webp",
+      "width": 640,
+      "height": 425,
+      "bytes": 22530
+    }
+  },
+  {
+    "file": "certificate-hedi.webp",
+    "width": 2000,
+    "height": 1414,
+    "bytes": 96370,
+    "alt": "Certificat de mérite de Hedi Fourati pour la présidence du club de 2022 à 2025.",
+    "source": "Photo fournie par le propriétaire du site (codex-clipboard-90775337-1c78-4e58-8b3b-43628b2547c9.png)"
+  },
+  {
+    "file": "gustave-team.webp",
+    "width": 1503,
+    "height": 999,
+    "bytes": 150034,
+    "alt": "Des membres et encadrants autour de Gustave Motors et de son panneau solaire.",
+    "source": "Photo fournie par le propriétaire du site (codex-clipboard-7d0561a9-4e50-474f-a523-26f956e73c1a.png)",
+    "small": {
+      "file": "gustave-team-640.webp",
+      "width": 640,
+      "height": 425,
+      "bytes": 41504
+    }
+  },
+  {
+    "file": "gustave-workshop.webp",
+    "width": 357,
+    "height": 358,
+    "bytes": 36462,
+    "alt": "Travail sur le châssis et les commandes du véhicule Gustave Motors.",
+    "source": "Asset préexistant du dépôt : assets/img/1.jpg"
+  },
+  {
+    "file": "gustave-car.webp",
+    "width": 357,
+    "height": 358,
+    "bytes": 30388,
+    "alt": "Gustave Motors, prototype de véhicule équipé d’un panneau solaire.",
+    "source": "Asset préexistant du dépôt : assets/img/2.jpg"
+  },
+  {
+    "file": "gustave-group.webp",
+    "width": 357,
+    "height": 358,
+    "bytes": 19482,
+    "alt": "Équipe du club réunie autour du véhicule solaire.",
+    "source": "Asset préexistant du dépôt : assets/img/3.jpg"
+  },
+  {
+    "file": "electronics-workshop.webp",
+    "width": 357,
+    "height": 358,
+    "bytes": 21788,
+    "alt": "Élèves et encadrant autour des composants électroniques à l’atelier.",
+    "source": "Asset préexistant du dépôt : assets/img/4.jpg"
+  },
+  {
+    "file": "abot-workshop.webp",
+    "width": 357,
+    "height": 358,
+    "bytes": 23106,
+    "alt": "Deux membres du club à l’atelier pendant le projet A-BOT.",
+    "source": "Asset préexistant du dépôt : assets/img/5.jpg"
+  },
+  {
+    "file": "abot.webp",
+    "width": 357,
+    "height": 358,
+    "bytes": 18866,
+    "alt": "Le robot A-BOT avec son écran et ses composants électroniques.",
+    "source": "Asset préexistant du dépôt : assets/img/6.jpg"
+  },
+  {
+    "file": "club-logo.webp",
+    "width": 359,
+    "height": 359,
+    "bytes": 27630,
+    "alt": "Logo existant du Club Ingénieur LGF.",
+    "source": "Asset préexistant du dépôt : assets/img/logo.png"
+  }
+]
