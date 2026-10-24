@@ -12,7 +12,7 @@ Présenter l'histoire du Club Ingénieur du Lycée Gustave Flaubert à La Marsa 
 Hypothèse de travail : élèves, communauté du lycée et visiteurs souhaitant découvrir les réalisations du club et suivre ses activités.
 
 ## Capabilities and Constraints
-Site statique HTML/CSS/JavaScript existant, publié sur https://clubinge-lgf.vercel.app. La refonte complète et le push direct sur main sont autorisés. De nouvelles photographies seront fournies ensuite. Aucun formulaire de contact sans destination vérifiée. Navigation naturelle et accès complet sur mobile.
+Site statique HTML/CSS/JavaScript, publié sur https://gamenotcreator.github.io/club/ avec GitHub Pages depuis la branche main et la racine du dépôt. Chaque push sur main déclenche la publication. La version anglaise est accessible avec ?lang=en. La refonte complète et le push direct sur main sont autorisés. De nouvelles photographies seront fournies ensuite. Aucun formulaire de contact sans destination vérifiée. Navigation naturelle et accès complet sur mobile.
 
 ## Brand Commitments
 Nom Club Ingénieur LGF, langue française, esprit de construction collective. Direction Apple/macOS professionnelle explicitement demandée, références Apple Design et Impeccable. Photographies authentiques fournies par le propriétaire.

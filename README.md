@@ -2,7 +2,7 @@
 
 Le site du Club Ingénieur du Lycée Gustave Flaubert, à La Marsa. Trois années de projets : **Gustave Motors** (2022–2023), **A-BOT** (2023–2024) et **Bubble Sea** (2024–2025).
 
-**[Voir le site](https://clubinge-lgf.vercel.app/)** · **[English](https://clubinge-lgf.vercel.app/?lang=en)** · **[Instagram](https://www.instagram.com/club.ingelgf/)**
+**[Voir le site](https://gamenotcreator.github.io/club/)** · **[English](https://gamenotcreator.github.io/club/?lang=en)** · **[Instagram](https://www.instagram.com/club.ingelgf/)**
 
 ## Parcourir le site
 
@@ -69,9 +69,9 @@ Les commandes de la visionneuse et les filtres découvrent les photos à partir 
 
 ## Publication et vérifications
 
-Le déploiement existant est hébergé sur [Vercel](https://clubinge-lgf.vercel.app/). Servir les fichiers depuis la racine du dépôt, sans commande de build. Une publication à partir de GitHub dépend de la connexion et des réglages du projet Vercel existant.
+Le site est publié sur [GitHub Pages](https://gamenotcreator.github.io/club/), directement depuis la branche `main` et le dossier `/(root)`. Chaque push sur `main` déclenche automatiquement la mise à jour du site. Le fichier `.nojekyll` permet de servir les fichiers statiques sans traitement Jekyll ; aucune commande de build n’est nécessaire.
 
-Le dépôt ne contient pas de pipeline CI ni de commande de build de production. Avant de publier une modification, vérifier les deux langues, les deux thèmes, la navigation mobile, les trois projets, les filtres et la visionneuse. Tester aussi le clavier, le réglage de réduction des mouvements et le chargement de chaque nouvelle image.
+Le déploiement GitHub Pages ne remplace pas les contrôles fonctionnels : aucune suite de tests CI n’est configurée dans le dépôt. Avant de publier une modification, vérifier les deux langues, les deux thèmes, la navigation mobile, les trois projets, les filtres et la visionneuse. Tester aussi le clavier, le réglage de réduction des mouvements et le chargement de chaque nouvelle image.
 
 Avec Node.js installé, lancer le contrôle structurel depuis la racine du dépôt :
 
