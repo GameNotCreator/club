@@ -1,5 +1,7 @@
 # Club Ingénieur LGF
 
+**English overview:** Bilingual website for the LGF Engineering Club in La Marsa, presenting Gustave Motors, A-BOT and Bubble Sea. The current site uses HTML, CSS and JavaScript; the project history, sources and maintenance instructions follow in French.
+
 Le site du Club Ingénieur du Lycée Gustave Flaubert, à La Marsa. Trois années de projets : **Gustave Motors** (2022–2023), **A-BOT** (2023–2024) et **Bubble Sea** (2024–2025).
 
 **[Voir le site](https://gamenotcreator.github.io/club/)** · **[English](https://gamenotcreator.github.io/club/?lang=en)** · **[Instagram](https://www.instagram.com/club.ingelgf/)**
