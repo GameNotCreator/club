@@ -4,7 +4,7 @@
 
 Le site du Club Ingénieur du Lycée Gustave Flaubert, à La Marsa. Trois années de projets : **Gustave Motors** (2022–2023), **A-BOT** (2023–2024) et **Bubble Sea** (2024–2025).
 
-**[Voir le site](https://gamenotcreator.github.io/club/)** · **[English](https://gamenotcreator.github.io/club/?lang=en)** · **[Instagram](https://www.instagram.com/club.ingelgf/)**
+**[Voir le site](https://gamenotcreator.github.io/engineering-club-website/)** · **[English](https://gamenotcreator.github.io/engineering-club-website/?lang=en)** · **[Instagram](https://www.instagram.com/club.ingelgf/)**
 
 ## Parcourir le site
 
@@ -71,7 +71,7 @@ Les commandes de la visionneuse et les filtres découvrent les photos à partir 
 
 ## Publication et vérifications
 
-Le site est publié sur [GitHub Pages](https://gamenotcreator.github.io/club/), directement depuis la branche `main` et le dossier `/(root)`. Chaque push sur `main` déclenche automatiquement la mise à jour du site. Le fichier `.nojekyll` permet de servir les fichiers statiques sans traitement Jekyll ; aucune commande de build n’est nécessaire.
+Le site est publié sur [GitHub Pages](https://gamenotcreator.github.io/engineering-club-website/), directement depuis la branche `main` et le dossier `/(root)`. Chaque push sur `main` déclenche automatiquement la mise à jour du site. Le fichier `.nojekyll` permet de servir les fichiers statiques sans traitement Jekyll ; aucune commande de build n’est nécessaire.
 
 Le déploiement GitHub Pages ne remplace pas les contrôles fonctionnels : aucune suite de tests CI n’est configurée dans le dépôt. Avant de publier une modification, vérifier les deux langues, les deux thèmes, la navigation mobile, les trois projets, les filtres et la visionneuse. Tester aussi le clavier, le réglage de réduction des mouvements et le chargement de chaque nouvelle image.
 
